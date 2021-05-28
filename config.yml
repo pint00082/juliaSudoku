@@ -1,0 +1,8 @@
+# Size of generation
+generationSize: 10000
+# Percentages for next generation
+crossoverRate: 25
+surviveRate: 15
+newRate: 5
+mutateRate: 5
+evolveRate: 50
